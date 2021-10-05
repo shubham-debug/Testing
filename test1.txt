@@ -14,4 +14,11 @@ git remote add origin https://github.com/shubham-debug/Testing.git
 git branch -M main
 git push -u origin main
 
+<<<<<<< HEAD
 hi there
+=======
+
+here are something added from github
+
+here are some more things added from github.
+>>>>>>> 0cb1c49599b081b5e2bd66aee70eee3306f8e2d9
